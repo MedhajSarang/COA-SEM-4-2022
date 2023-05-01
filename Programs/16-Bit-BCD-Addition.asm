@@ -27,6 +27,6 @@ mov ah, 02 ; Function 2 under INT 21H (Display character)
 int 21H
 dec ch ; Decrement Count 
 jnz l2
-mov ah, 4cH ;Terminate Program
+mov ah, 4cH ;Terminate Progra
 int 21H
 end
