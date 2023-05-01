@@ -22,4 +22,4 @@ Step 9 : Now type, Tlink filename.obj
 
 Step 10 : Type TD filename.exe
 
-This is run the tasm code.
+This runs the tasm code.
